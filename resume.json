@@ -1,0 +1,56 @@
+{
+	"basics": {
+		"name": "Yogesh Kumar",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2019KUCP1108@IIITKOTA.AC.IN",
+		"phone": "7425066062-",
+		"summary": "B.Tech, Undergraduate Student, Computer Science and Engineering at Indian Institute of Information Technology, Kota",
+		"location": {
+			"address": "Sastri Nagar,RIICO",
+			"postalCode": "333001",
+			"city": "Jhunjhunu",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "yogeshkumar16",
+				"url": "https://www.github.com/yogeshkumar16/"
+			},
+			{
+				"network": "linkedin",
+				"username": "yogeshkumariiitk",
+				"url": "https://www.linkedin.com/in/yogeshkumariiitk/"
+			},
+			{
+				"network": "Instagram",
+				"username": "yogeshjangid_er",
+				"url": "https://instagram.com/yogeshjangid_er"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2019-02-08",
+		"endDate": "2023",
+		"gpa": "7.95 (Till 4th Semester)",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+
+	"skills": [{
+		"level": "Intermediate",
+		"keywords": [
+			"HTML", "CSS", "Bootstrap Basics", "Java"
+		]
+	}],
+	"interests": [{
+		"name": "Motorhead",
+		"keywords": ["Cars", "Bikes"]
+	}]
+}
