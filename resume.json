@@ -46,11 +46,15 @@
 	"skills": [{
 		"level": "Intermediate",
 		"keywords": [
-			"HTML", "CSS", "Bootstrap Basics", "Java"
+			"C", "C++", "Python", "HTML", "CSS", "Bootstrap Basics"
 		]
 	}],
 	"interests": [{
 		"name": "Motorhead",
 		"keywords": ["Cars", "Bikes"]
+	}],
+	"Hobbies": [{
+		"name": "",
+		"keywords": ["Listning Music", "Playing Bedminton"]
 	}]
 }
